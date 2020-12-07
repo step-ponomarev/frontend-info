@@ -15,7 +15,7 @@
 
 ## Best practice
 
-- [Михаил Давыдов – Promise – это не больно](https://www.youtube.com/watch?v=S_j44BVijRE)
+[x] [Михаил Давыдов – Promise – это не больно](https://www.youtube.com/watch?v=S_j44BVijRE)
 - [Michel Weststrate - There and back again: grokking state and data](https://www.youtube.com/watch?v=Gyp2QDr7YkU)
 - [David Khourshid — The visual future of reactive applications with statecharts](https://www.youtube.com/watch?v=o84Xw8qiTCw)
 - [Алексей Тактаров — Анимации в мире состояний](https://www.youtube.com/watch?v=Ug_dwJa07Os)
